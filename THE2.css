@@ -1,0 +1,122 @@
+html {
+    background: rgb(114, 68, 16);
+    min-width: 1000px;
+}
+
+body {
+    background-color: rgb(114, 68, 16);
+}
+
+header {
+    text-align: center;
+    border: rgb(0, 0, 0) solid 5px;
+    border-radius: 10px;
+    background-color: rgb(160, 85, 0);
+    margin-right: 35%;
+    margin-left: 35%;
+    top:100px;
+}
+
+a {
+    font-family: 'Slackey', cursive;
+}
+
+/*Information*/
+.Title {
+    font-family: 'Slackey', cursive;
+    text-align: center;
+    border: rgb(0, 0, 0) solid 5px;
+    border-radius: 10px;
+    background-color: rgb(160, 85, 0);
+    position: absolute;
+    left: 975px;
+    
+}
+
+.Title2 {
+    font-family: 'Slackey', cursive;
+    position: absolute;
+    border: rgb(0, 0, 0) solid 5px;
+    border-radius: 10px;
+    background-color: rgb(160, 85, 0);
+    top: 450px; 
+    left: 975px;
+    text-align: center;
+}
+
+.Title3 {
+    font-family: 'Slackey', cursive;
+    position: absolute;
+    border: rgb(0, 0, 0) solid 5px;
+    border-radius: 10px;
+    background-color: rgb(160, 85, 0);
+    top: 800px;
+    left: 975px;
+    text-align: center;
+}
+
+.InformationInfo {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    font-size: 20px;
+    border: black solid 5px;
+    background-color: rgb(160, 85, 0);
+    text-align: center;
+    left: 775px;
+    top: 550px; 
+}
+
+.InformationInfo2 {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 775px;
+    top: 150px;
+    border: black solid 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(160, 85, 0);
+    text-align: center;
+}
+
+.InformationInfo3 {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 775px;
+    top: 950px;
+    border: black solid 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(160, 85, 0);
+}
+
+.InformationInfo4 {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 200px;
+    top: 450px;
+    border: black solid 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(160, 85, 0);
+}
+
+/*IMAGES*/
+.Mark1 {
+    position: absolute;
+    border: black solid 5px;
+    top: 650px;
+    left: 2000px;
+}
+
+.ScarePewdiepie {
+    position: absolute;
+    border: black solid 5px;
+    left: 2000px;
+    top: 250px;
+}
+.Mark2 {
+    position: absolute;
+    border: black solid 5px;
+    left: 2000px;
+}
